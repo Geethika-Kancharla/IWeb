@@ -1,23 +1,17 @@
 import React from 'react';
-import WebcamFeed from './components/WebcamFeed';
-import DetectedObjects from './components/DetectedObjects';
+import { Routes, Route } from 'react-router-dom'
+import Home from './pages/Home';
+import Main from './pages/Main';
 
 import 'tailwindcss/tailwind.css';
 
 function App() {
     return (
-        <div className="bg-black text-white h-screen">
+        <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/main" element={<Main />} />
+        </Routes>
 
-            <h1 className='font-bold text-center text-4xl text-red-200'>Object Detection for Visually Impaired</h1>
-            <div className='flex space-x-24 '>
-                <WebcamFeed />
-                <div className='flex-col mt-20'>
-                    <h1 className='text-center text-2xl font-bold pl-44'>Detected Objects:</h1>
-                    <DetectedObjects />
-                </div>
-            </div>
-
-        </div>
     );
 }
 
