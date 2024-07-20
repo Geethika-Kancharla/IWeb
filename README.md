@@ -4,7 +4,7 @@
 ### Tech Stack
 <ul>
   <li>Object Detection Framework (YOLO)</li>
-  <li>Text-to-Speech API (Web-Speech API)</li>
+  <li>Text-to-Speech (Web-Speech API)</li>
   <li>React</li>
   <li>Flask</li>
   <li>Tailwind CSS</li>
