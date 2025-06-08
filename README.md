@@ -8,9 +8,6 @@ IWeb is a web application that helps visually impaired users by detecting object
 - Adjustable voice pitch, rate, and volume
 - Simple, accessible interface
 
-## Demo
-![Screenshot of IWeb](client\public\assets\IWeb.jpg)
-
 ## Tech Stack
 - React & Tailwind CSS (Frontend)
 - Flask & YOLOv3 (Backend)
