@@ -1,0 +1,34 @@
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import './index.css';
+import App from './App';
+import reportWebVitals from './reportWebVitals';
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+import { BrowserRouter } from 'react-router-dom'
+>>>>>>> 407a253 (Flask server)
+>>>>>>> eae2401 (Flask server)
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  <React.StrictMode>
+<<<<<<< HEAD
+    <App />
+=======
+<<<<<<< HEAD
+    <App />
+=======
+    <BrowserRouter>
+      <App />
+    </BrowserRouter>
+>>>>>>> 407a253 (Flask server)
+>>>>>>> eae2401 (Flask server)
+  </React.StrictMode>
+);
+
+// If you want to start measuring performance in your app, pass a function
+// to log results (for example: reportWebVitals(console.log))
+// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+reportWebVitals();
