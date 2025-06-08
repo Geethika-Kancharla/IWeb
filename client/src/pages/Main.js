@@ -19,12 +19,4 @@ const Main = () => {
     )
 }
 
-<<<<<<< HEAD
 export default Main
-=======
-<<<<<<< HEAD
-export default Main
-=======
-export default Main
->>>>>>> 407a253 (Flask server)
->>>>>>> eae2401 (Flask server)

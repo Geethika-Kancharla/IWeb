@@ -15,10 +15,6 @@
     "postcss": "^8.4.39",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-<<<<<<< HEAD
-=======
-    "react-router-dom": "^6.24.1",
->>>>>>> eae2401 (Flask server)
     "react-scripts": "5.0.1",
     "react-webcam": "^7.2.0",
     "web-vitals": "^2.1.4"
@@ -51,8 +47,4 @@
   "devDependencies": {
     "tailwindcss": "^3.4.4"
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> eae2401 (Flask server)

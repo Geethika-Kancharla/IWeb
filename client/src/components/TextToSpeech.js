@@ -139,12 +139,4 @@ const TextToSpeech = ({ text }) => {
     );
 };
 
-<<<<<<< HEAD
 export default TextToSpeech;
-=======
-<<<<<<< HEAD
-export default TextToSpeech;
-=======
-export default TextToSpeech;
->>>>>>> 407a253 (Flask server)
->>>>>>> eae2401 (Flask server)

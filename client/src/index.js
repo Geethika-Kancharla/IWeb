@@ -3,28 +3,11 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-import { BrowserRouter } from 'react-router-dom'
->>>>>>> 407a253 (Flask server)
->>>>>>> eae2401 (Flask server)
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-<<<<<<< HEAD
     <App />
-=======
-<<<<<<< HEAD
-    <App />
-=======
-    <BrowserRouter>
-      <App />
-    </BrowserRouter>
->>>>>>> 407a253 (Flask server)
->>>>>>> eae2401 (Flask server)
   </React.StrictMode>
 );
 

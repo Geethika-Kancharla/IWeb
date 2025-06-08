@@ -15,12 +15,4 @@ function App() {
     );
 }
 
-<<<<<<< HEAD
 export default App;
-=======
-<<<<<<< HEAD
-export default App;
-=======
-export default App;
->>>>>>> 407a253 (Flask server)
->>>>>>> eae2401 (Flask server)
